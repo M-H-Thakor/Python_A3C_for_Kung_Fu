@@ -20,7 +20,7 @@ The agent learns effective fighting strategies by playing multiple parallel inst
 
 Watch the trained agent play **Kung Fu**:  
 
-[![Kung Fu Demo](download (2).mp4)](download (2).mp4)
+[![Kung Fu Demo](demo_video.mp4)](demo_video.mp4)
 
 ---
 
